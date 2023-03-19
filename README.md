@@ -1,10 +1,69 @@
-- 👋 Hi, I’m @radnou
-- 👀 I’m interested in Mobile Application and Web Development 
-- 🌱 I’m currently learning  Flutter,Python, JavaScript/HTML/CSS, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin or twitter @Mradnou
+# Salut! Je suis Radnoumane Mossabely 👋
 
-<!---
-radnou/radnou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub followers](https://img.shields.io/github/followers/radnou?label=Follow&style=social) [![Linkedin: radnoumane](https://img.shields.io/badge/-radnoumane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radnoumane/)](https://www.linkedin.com/in/radnoumane/)
+
+## À propos de moi 🚀
+
+Je suis un ingénieur en informatique passionné et expérimenté, spécialisé dans le développement web et les technologies de pointe. J'ai travaillé sur divers projets et je suis toujours à la recherche de nouvelles opportunités pour développer mes compétences et contribuer à la communauté tech.
+
+- 🌱 J'apprends actuellement: **Intelligence Artificielle & Développement Mobile**
+- 💬 Demandez-moi de l'aide sur: **Java, JavaScript, React, Node.js, Python**
+- 📫 Comment me joindre: [mossabelyradnoumane@gmail.com](mailto:mossabelyradnoumane@gmail.com)
+- ⚡ Fun fact: Je suis un fan de sports extrêmes et j'adore le skateboard !
+
+## Mes compétences 💻
+
+```text
+Java              6 ans
+JavaScript        3 ans
+Python            2 ans
+React             1 an
+Fluter            1 an
+Node.js           1 an
+Django            1 an
+NestJs            1 an
+Next.js           1 an
+```
+## Expérience professionnelle 💼
+### ✈️ Safran
+**Ingénieur Logiciel (Janvier 2022 - Présent)**
+
+Développement d'une solution de préparation de mission avion basée sur les nouvelles technologies web en micro-services dans le secteur aéronautique.
+
+### 🏛️ CGI
+**Consultant en Solutions Informatiques (Octobre 2018 - Novembre 2022)**
+
+Intégration de solutions SIRH pour divers clients dans les secteurs public, transports et services aux entreprises.
+
+### 🌿 Ministère de la Transition écologique
+**Consultant en Tests (Août 2020 - Février 2021)**
+
+Participation à la phase de recette de l'application de télé-procédure de Demande d'Autorisation Environnementale.
+
+### ⚡ Eiffage Énergie Systèmes
+**Développeur Python SIG (Septembre 2017 - Septembre 2018)**
+
+Maintenance et évolution du plugin de reporting et amélioration d'outils informatiques de traitement de données pour des projets smartcities.
+
+## Secteurs dans lesquels j'ai travaillé 🌐
+- ✈️Aéronautique
+- 🏛️Secteur public
+- 🚌 Transports
+- 🔋 Énergie
+- ⚙️ Services aux entreprises
+- 🌳 Environnement
+
+## Statistiques GitHub 📊
+
+![](https://github-readme-stats.vercel.app/api?username=radnou&show_icons=true&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=radnou&layout=compact&theme=dark)
+
+
+## Résumé des travaux récents 📚
+Je travaille principalement sur des projets de développement web et d'applications mobiles, en utilisant des technologies telles que JavaScript, React, Node.js, Python et Java, Flutter J'apprécie particulièrement la création d'applications performantes et conviviales, ainsi que l'exploration de nouvelles technologies pour élargir mes compétences.
+
+## Retrouvez-moi sur 💬
+- LinkedIn: https://www.linkedin.com/in/radnoumane/
+- GitHub: https://github.com/radnou
+- Email: mossabelyradnoumane@gmail.com
