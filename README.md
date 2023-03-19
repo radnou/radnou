@@ -1,6 +1,7 @@
 # Salut! Je suis Radnoumane Mossabely 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/radnou?label=Follow&style=social) [![Linkedin: radnoumane](https://img.shields.io/badge/-radnoumane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radnoumane/)](https://www.linkedin.com/in/radnoumane/)
+![](https://komarev.com/ghpvc/?username=radnou&color=blue&style=flat)
 
 ## À propos de moi 🚀
 
