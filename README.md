@@ -18,10 +18,9 @@ Je suis un ingénieur en informatique passionné et expérimenté, spécialisé 
 Java              6 ans
 JavaScript        3 ans
 Python            2 ans
-React             1 an
-Fluter            1 an
-Node.js           1 an
-Django            1 an
+React             2 ans
+Fluter            2 ans
+Node.js           2 ans
 NestJs            1 an
 Next.js           1 an
 ```
