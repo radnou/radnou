@@ -16,8 +16,9 @@ Je suis un ingénieur en informatique passionné et expérimenté, spécialisé 
 
 ```text
 Java              6 ans
-JavaScript        3 ans
+JavaScript        5 ans
 Python            2 ans
+Angular           2 ans
 React             2 ans
 Fluter            2 ans
 Node.js           2 ans
