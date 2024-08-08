@@ -10,7 +10,6 @@ Je suis un ingénieur en informatique passionné et expérimenté, spécialisé 
 - 🌱 J'apprends actuellement: **Angular, Nest.js, firebase**
 - 💬 Demandez-moi de l'aide sur: **Java, JavaScript, React, Node.js, Python**
 - 📫 Comment me joindre: [mossabelyradnoumane@gmail.com](mailto:mossabelyradnoumane@gmail.com)
-- ⚡ Fun fact: Je suis originaire de l'île de La Réunion et je ne sais pas nager.
 
 ## Mes compétences 💻
 
